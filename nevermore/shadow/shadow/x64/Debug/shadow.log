@@ -1,0 +1,4 @@
+﻿  shadow.cpp
+G:\лабы\тспп\nevermore\shadow\shadow\shadow.cpp(73,11): warning C4101: sale: неиспользованная локальная переменная
+G:\лабы\тспп\nevermore\shadow\shadow\shadow.cpp(71,9): warning C4101: cust: неиспользованная локальная переменная
+  shadow.vcxproj -> G:\лабы\тспп\nevermore\shadow\x64\Debug\shadow.exe
